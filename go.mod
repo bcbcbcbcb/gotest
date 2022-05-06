@@ -1,3 +1,3 @@
-module github.com/babababab/gotest
+module github.com/bcbcbcbcb/gotest
 
 go 1.15
